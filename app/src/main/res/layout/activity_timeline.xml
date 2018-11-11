@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/action_bar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="#EE5757">
+
+        <TextView
+            android:id="@+id/tv_bar_tite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="时光轴"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="10dp"
+            android:src="@drawable/icon_back_white" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/timelint_img"
+        android:src="#EF5555"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="320dp"
+        android:layout_height="180dp" />
+
+    <ListView
+        android:layout_marginTop="20dp"
+        android:id="@+id/timeline_listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:dividerHeight="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+</LinearLayout>

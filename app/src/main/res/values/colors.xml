@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Group1-->
+    <color name="g1_c1">#EEE0CB</color>
+    <color name="g1_c2">#BAA898</color>
+    <color name="g1_c3">#9FC9DA</color>
+    <color name="g1_c4">#F2C09B</color>
+    <color name="g1_c5">#DBB7B2</color>
+    <!--Group2-->
+    <color name="g2_c1">#1A535C</color>
+    <color name="g2_c2">#4ECDC4</color>
+    <color name="g2_c3">#F7FFF7</color>
+    <color name="g2_c4">#FF6B6B</color>
+    <color name="g2_c5">#FFE66D</color>
+    <!--Group3-->
+    <color name="g3_c1">#6699CC</color>
+    <color name="g3_c2">#FFF275</color>
+    <color name="g3_c3">#FF8C42</color>
+    <color name="g3_c4">#FF3C38</color>
+    <color name="g3_c5">#A23E48</color>
+    <!--Group4-->
+    <color name="g4_c1">#247BA0</color>
+    <color name="g4_c2">#70C1B3</color>
+    <color name="g4_c3">#B2DBBF</color>
+    <color name="g4_c4">#F3FFBD</color>
+    <color name="g4_c5">#FF1654</color>
+    <!--Group5-->
+    <color name="g5_c1">#FFCDB2</color>
+    <color name="g5_c2">#FFB4A2</color>
+    <color name="g5_c3">#E5989B</color>
+    <color name="g5_c4">#B5838D</color>
+    <color name="g5_c5">#6D6875</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorGray">#D5D5D5</color>
+    <color name="colorGrayDark">#808080</color>
+
+
+    <color name="red">#D95238</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_999999">#999999</color>
+
+    <color name="heart_default">#E48674</color>
+    <color name="heart_select">#E48674</color>
+
+    <color name="translucent">#10000000</color>
+
+    <color name="rippelColor">#FFFFFF</color>
+    <color name="heartbeat">#EAAD7E</color>
+
+    <color name="gray_light">#e8e8e8</color>
+    <color name="color_light_blue">#00DDB6</color>
+    <color name="txt_color">#48495F</color>
+    <color name="item_bg">#FFFFFF</color>
+    <color name="bg">#F0F0F0</color>
+    <color name="spinner_bg">#333244</color>
+    <color name="new_text_color">#555771</color>
+    <color name="white_text_color">#F0F0F0</color>
+    <color name="gray_color">#4b4b58</color>
+    <color name="hard_color">#48495f</color>
+    <color name="clickspan_color">#00ddb6</color>
+    <color name="dull_blue">#3B4BBF</color>
+
+</resources>
